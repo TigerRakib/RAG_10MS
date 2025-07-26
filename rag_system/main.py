@@ -13,7 +13,7 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 
 
-PDF_PATH = "D:\project_10ms\data\HSC26-Bangla1st-Paper.pdf"
+PDF_PATH = "data\HSC26-Bangla1st-Paper.pdf"
 CHUNKS_FILE = "paragraph_chunks.json"
 QDRANT_METADATA_FILE = "qdrant_metadata.json"
 COLLECTION_NAME = "my_collection"
