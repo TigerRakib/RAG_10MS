@@ -1,6 +1,0 @@
-PyMuPDF==1.24.4
-sentence-transformers==2.7.0
-qdrant-client==1.7.0
-uuid
-numpy==1.26.4
-langchain==0.1.20
