@@ -105,16 +105,14 @@ The system is wrapped with FastAPI to expose a `/ask/` endpoint:
 - **Method:** POST  
 - **Request JSON:**  
   ```json
-  {
-    "query": "অনুপমের ভাষায় সুপুরুষ কাকে বলা হয়েছে?"
-  }
+
   ```
+  ![alt text](<Screenshot 2025-07-28 020309.png>)
 - **Response JSON:**  
   ```json
-  {
-    "answer": "শুম্ভুনাথ"
-  }
+  
   ```
+  ![alt text](<Screenshot 2025-07-27 150828.png>)
 
 ## Questions & Answers
 
